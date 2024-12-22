@@ -1,5 +1,5 @@
 # Winter Solstice Celebrations Around the World
-
+![image](image.png)
 ## Description
 This project is a responsive and interactive landing page dedicated to exploring the science and cultural traditions surrounding the Winter Solstice. The page offers insights into the solstice's significance, how it's celebrated across different hemispheres, and its role in global traditions and folklore.
 
