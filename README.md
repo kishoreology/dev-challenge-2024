@@ -33,8 +33,7 @@ Navigate through the various sections using the sticky navigation bar. Each sect
 - Global celebrations and traditions associated with the solstice.
 
 ## Preview
-![Winter Solstice Preview](#)  
-[Live Demo](#)
+[Live Demo](https://dev-challenge-2024.vercel.app/)
 
 ## Future Enhancements
 - Add multimedia elements like videos and interactive animations.
